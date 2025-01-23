@@ -10,8 +10,15 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "@iconify/json": "^2.2.299",
+    "@iconify/vue": "^4.3.0",
+    "@popperjs/core": "^2.11.8",
+    "axios": "^1.7.9",
+    "bootstrap": "^5.3.3",
+    "bootstrap-icons": "^1.11.3",
     "nuxt": "^3.15.2",
     "vue": "latest",
-    "vue-router": "latest"
+    "vue-router": "latest",
+    "vuetify": "^3.7.7"
   }
 }
